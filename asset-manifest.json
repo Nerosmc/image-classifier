@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nerosmc/image-classifier/static/css/main.3a7a5e6c.css",
+    "main.js": "/Nerosmc/image-classifier/static/js/main.89dfea34.js",
+    "index.html": "/Nerosmc/image-classifier/index.html",
+    "main.3a7a5e6c.css.map": "/Nerosmc/image-classifier/static/css/main.3a7a5e6c.css.map",
+    "main.89dfea34.js.map": "/Nerosmc/image-classifier/static/js/main.89dfea34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7a5e6c.css",
+    "static/js/main.89dfea34.js"
+  ]
+}
