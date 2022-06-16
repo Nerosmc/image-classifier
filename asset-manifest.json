@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Nerosmc/image-classifier/static/css/main.3a7a5e6c.css",
-    "main.js": "/Nerosmc/image-classifier/static/js/main.89dfea34.js",
-    "index.html": "/Nerosmc/image-classifier/index.html",
-    "main.3a7a5e6c.css.map": "/Nerosmc/image-classifier/static/css/main.3a7a5e6c.css.map",
-    "main.89dfea34.js.map": "/Nerosmc/image-classifier/static/js/main.89dfea34.js.map"
+    "main.css": "/image-classifier/static/css/main.3a7a5e6c.css",
+    "main.js": "/image-classifier/static/js/main.89dfea34.js",
+    "index.html": "/image-classifier/index.html",
+    "main.3a7a5e6c.css.map": "/image-classifier/static/css/main.3a7a5e6c.css.map",
+    "main.89dfea34.js.map": "/image-classifier/static/js/main.89dfea34.js.map"
   },
   "entrypoints": [
     "static/css/main.3a7a5e6c.css",
